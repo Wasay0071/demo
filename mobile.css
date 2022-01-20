@@ -1,0 +1,158 @@
+@media (max-width:576px) {
+    #logo-col {
+        width: 30% !important;
+    }
+    #nav-col {
+        width: 70% !important;
+    }
+    .navbar-toggler {
+        margin-left: auto;
+    }
+    .navbar {
+        padding-right: 0% !important;
+    }
+    .nav-link {
+        text-align: right !important;
+    }
+    #free-trial-col {
+        text-align: center;
+    }
+    #ft-h1 {
+        font-size: 1.5rem;
+    }
+    .ft-hr {
+        margin-left: auto;
+    }
+    .ft-p {
+        font-size: 0.8rem;
+    }
+    #try-free-col {
+        padding-top: 2% !important;
+        padding-bottom: 10%;
+    }
+    .sf-btn {
+        margin-left: 1% !important;
+    }
+    .sf-btn1 {
+        border-radius: 5px 0px 0px 5px;
+    }
+    .sf-btn3 {
+        border-radius: 0px 5px 5px 0px;
+    }
+    .st-h3 {
+        font-size: 1.3rem;
+        padding-top: 10% !important;
+    }
+    .st-p {
+        font-size: 0.8rem;
+        padding-top: 5% !important;
+    }
+    .sm-row {
+        text-align: center;
+    }
+    .sm-p {
+        font-size: 0.8rem;
+    }
+    #sm-icon {
+        padding-bottom: 5% !important;
+        padding-top: 1% !important;
+        margin-top: 0% !important;
+    }
+    #tab-col {
+        display: flex;
+        width: 100%;
+    }
+    .st-row {
+        text-align: center;
+    }
+    .sl-col {
+        text-align: center !important;
+    }
+    .sl-hr {
+        margin-left: auto !important;
+    }
+    .sl-p1 {
+        font-size: 0.75rem !important;
+    }
+    .title1,
+    .title2 {
+        display: block !important;
+    }
+    .sl-h1,
+    .sl-h2 {
+        padding-left: 0% !important;
+        padding-top: 1.5rem !important;
+    }
+    .sl-p2,
+    .sl-p3 {
+        padding-left: 0% !important;
+        font-size: 0.75rem !important;
+    }
+    .sp-row {
+        text-align: center;
+    }
+    .sp-hr {
+        margin-left: auto !important;
+    }
+    .sp-p1,
+    .sp-p2 {
+        font-size: 0.75rem !important;
+    }
+    .wa-mh {
+        font-size: 1.3rem;
+    }
+    .wa-hr {
+        width: 15% !important;
+    }
+    .wa-mp {
+        font-size: 0.77rem !important;
+    }
+    .wa-r2-p {
+        font-size: 0.7rem !important;
+    }
+    .po-mh {
+        font-size: 2rem !important;
+    }
+    .po-hr {
+        width: 15% !important;
+    }
+    .po-mp {
+        font-size: 0.77rem;
+    }
+    .m-col {
+        margin-left: 0% !important;
+    }
+    .oc-mh {
+        font-size: 1.1rem;
+    }
+    .oc-hr {
+        width: 15% !important;
+    }
+    .oc-mp {
+        font-size: 0.77rem !important;
+    }
+    .oc-clients {
+        display: flex !important;
+    }
+    .oc-h1 {
+        margin-left: 5% !important;
+    }
+    .sd-h1 {
+        font-size: 1.7rem;
+    }
+    .sd-hr {
+        width: 15% !important;
+    }
+    .sd-p {
+        font-size: 0.8rem !important;
+    }
+    .c-mh {
+        font-size: 1.5rem;
+    }
+    .c-hr {
+        width: 10% !important;
+    }
+    .c-mp {
+        font-size: 0.77rem;
+    }
+}
